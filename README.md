@@ -1,3 +1,5 @@
+![Banner](https://github.com/hamzanaseem063/hamzanaseem063/blob/main/bannerImg.png)
+
 # Hi 👋, I'm Hamza Naseem
 💻 Passionate about programming  
 🌐 Exploring JavaScript, Python, and modern technologies  
