@@ -1,9 +1,15 @@
-![Banner](https://github.com/hamzanaseem063/hamzanaseem063/blob/main/bannerImg.png)
+<p align="center">
+  <img src="https://github.com/hamzanaseem063/hamzanaseem063/blob/main/bannerImg.png" alt="Hamza Naseem Banner" />
+</p>
 
-# Hi 👋, I'm Hamza Naseem
-💻 Passionate about programming  
-🌐 Exploring JavaScript, Python, and modern technologies  
+
+<h1 align="center">Hi 👋, I'm Hamza Naseem</h1>
+<p align="center">
+💻 Passionate about programming <br>
+🌐 Exploring JavaScript, Python, and modern technologies <br>
 🚀 Always learning, always building
+</p>
+
 
 ## 🧠 About Me
 - 🔭 Currently learning **Web Development & Programming Fundamentals**
