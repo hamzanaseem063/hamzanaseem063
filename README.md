@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Hamza Naseem
+💻 Passionate about programming  
+🌐 Exploring JavaScript, Python, and modern technologies  
+🚀 Always learning, always building
 
-<!--
-**hamzanaseem063/hamzanaseem063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
+- 🔭 Currently learning **Web Development & Programming Fundamentals**
+- 🌱 Exploring **JavaScript, Python, and GitHub Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, or Python**
+- 📫 Email: hamzanaseemh@gmail.com
+- 🌍 Location: Pakistan
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
+![HTML5](https://img.icons8.com/color/48/html-5.png)
+![CSS3](https://img.icons8.com/color/48/css3.png)
+![JavaScript](https://img.icons8.com/color/48/javascript.png)
+![Python](https://img.icons8.com/color/48/python.png)
+![GitHub](https://img.icons8.com/color/48/github.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzanaseem063&show_icons=true&theme=tokyonight)
+
+⭐ Always learning, always building.
