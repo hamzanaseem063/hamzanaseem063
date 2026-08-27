@@ -40,6 +40,24 @@
 ![C#](https://img.icons8.com/color/48/c-sharp-logo.png)
 
 ## 📊 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzanaseem063&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzanaseem063&show_icons=true&theme=tokyonight" alt="Hamza's GitHub Stats" />
+</p>
 
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzanaseem063&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanaseem063&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzanaseem063&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+</p>
 ⭐ Always learning, always building.
