@@ -18,12 +18,26 @@
 - 📫 Email: hamzanaseemh@gmail.com
 - 🌍 Location: Pakistan
 
+ ## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:hamzanaseemh@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/hamza_mughal031" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
+
 ## 🛠️ Languages and Tools
+![C++](https://img.icons8.com/color/48/c-plus-plus-logo.png)
+![Python](https://img.icons8.com/color/48/python.png)
 ![HTML5](https://img.icons8.com/color/48/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/javascript.png)
-![Python](https://img.icons8.com/color/48/python.png)
-![GitHub](https://img.icons8.com/color/48/github.png)
+![C](https://img.icons8.com/color/48/c-programming.png)
+![C#](https://img.icons8.com/color/48/c-sharp-logo.png)
 
 ## 📊 GitHub Stats
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzanaseem063&show_icons=true&theme=tokyonight)
